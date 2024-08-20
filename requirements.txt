@@ -1,0 +1,2 @@
+# Dependencies / Requirements
+pygame==2.6.0
