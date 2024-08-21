@@ -1,1 +1,3 @@
-# asteroids
+# Asteroids!
+
+A beginners python project
